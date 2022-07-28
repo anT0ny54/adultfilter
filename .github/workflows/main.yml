@@ -1,4 +1,4 @@
-nname: Update Whitelist
+name: Update Whitelist
 on:
   push:
     paths-ignore:
