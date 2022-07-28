@@ -183,9 +183,6 @@ fetch_hosts() {
             # remove all comments
             grep -v '#' < "$TARGET" |\
             # remove all ipv4 addresses in format:
-            # - 127.0.0.1<SPACE>
-            sed -e 's/127.0.0.1\s//g' |\
-            # remove all ipv4 addresses in format:
             # - 0.0.0.0<SPACE>
             sed -e 's/0.0.0.0\s//g' |\
             # remove all ipv6 addresses in format:
