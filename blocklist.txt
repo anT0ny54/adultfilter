@@ -1,4 +1,0 @@
-
-
-########## Whitelist from https://raw.githubusercontent.com/anT0ny54/adultfilter/main/lists/hosts ##########
-
