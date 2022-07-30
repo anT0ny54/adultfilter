@@ -1,1 +1,1 @@
-# Adult Filter
+# AdultFilter
