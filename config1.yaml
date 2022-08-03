@@ -64,6 +64,10 @@ block_lists:
     url: https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/dating/domains
   -
     url: https://raw.githubusercontent.com/olbat/ut1-blacklists/master/blacklists/gambling/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
 
 # list of domains to remove from the lists
 allow:
