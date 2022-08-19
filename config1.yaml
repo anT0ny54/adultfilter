@@ -53,6 +53,10 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/gambling/domains
   -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
+  -
+    url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
+  -
     url: https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
   -
     url: https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
@@ -61,9 +65,7 @@ block_lists:
   -
     url: https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
   -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
-  -
-    url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
+    url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
 
 # list of domains to remove from the lists
 allow:
