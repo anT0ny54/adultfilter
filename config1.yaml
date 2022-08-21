@@ -66,6 +66,8 @@ block_lists:
     url: https://raw.githubusercontent.com/nextdns/piracy-blocklists/master/proxies
   -
     url: https://raw.githubusercontent.com/t0ny54/blocklistwithregex/main/custom_blacklist.txt
+  -
+    url: https://raw.githubusercontent.com/t0ny54/adultfilter/main/blocklist.txt
 
 # list of domains to remove from the lists
 allow:
