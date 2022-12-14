@@ -17,8 +17,6 @@ block_lists:
   -
     url: https://badmojr.github.io/addons_1Hosts/kidSaf/hosts.txt
   -
-    url: https://block.energized.pro/porn/formats/domains.txt
-  -
     url: https://blocklistproject.github.io/Lists/drugs.txt
   -
     url: https://blocklistproject.github.io/Lists/gambling.txt
@@ -56,8 +54,6 @@ block_lists:
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/proxy/domains
   -
     url: https://raw.githubusercontent.com/cbuijs/ut1/master/vpn/domains
-  -
-    url: https://raw.githubusercontent.com/mhxion/pornaway/master/hosts/porn_sites.txt
   -
     url: https://raw.githubusercontent.com/nextdns/metadata/master/parentalcontrol/bypass-methods
   -
