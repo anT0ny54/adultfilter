@@ -23,7 +23,7 @@ block_lists:
   -
     url: https://blocklistproject.github.io/Lists/vaping.txt
   -
-    url: https://dbl.oisd.nl/nsfw
+    url: https://nsfw.oisd.nl
   -
     url: https://raw.githubusercontent.com/Sinfonietta/hostfiles/master/gambling-hosts
   -
